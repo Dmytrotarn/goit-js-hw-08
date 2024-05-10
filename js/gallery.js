@@ -95,4 +95,3 @@ function handleClick(event) {
 `);
     instance.show()
 }
-
